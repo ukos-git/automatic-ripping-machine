@@ -13,7 +13,7 @@ import logging
 
 import pyudev
 
-from arm.models import SystemDrives, Job
+from arm.models import SystemDrives
 from arm.ui import app, db
 
 
